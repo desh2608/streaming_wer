@@ -18,3 +18,7 @@ pytest tests
 ```
 
 ## Usage
+
+## Credits
+
+This implementation borrows heavily from the following repository: https://github.com/1ytic/pytorch-edit-distance
